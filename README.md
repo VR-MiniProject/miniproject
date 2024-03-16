@@ -1,4 +1,7 @@
 # Part 3d
+
+Output videos : https://drive.google.com/drive/folders/1D3iN2I596R53vvwNel3u-8bbp18-Mg8b?usp=sharing
+
 ## How to run
 ### YOLO-V5 
 Navigate to the corresponding folder and you will find the readme file there showing how to run the project. Skip the weight downloading part as the fine tuned model's weight is already stored in the weight folder and the command is already present in main.py. 
