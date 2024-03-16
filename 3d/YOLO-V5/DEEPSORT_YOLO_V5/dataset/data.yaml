@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['cars']
+
+roboflow:
+  workspace: vr-e9teu
+  project: vr-3d
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/vr-e9teu/vr-3d/1
